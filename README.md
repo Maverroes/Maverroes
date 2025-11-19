@@ -1,6 +1,7 @@
-Hi there👋, I'm Averroes
+<h1 align="center">Hi there 👋, I'm Averroes</h1>
 
-An information systems student, videographer, and lifelong learner.
+<h3 align="center">An information systems student, videographer, and lifelong learner.</h3>
+
 
 🌱 I’m currently learning IoT, SQL, System Development and Front-End Development
 
